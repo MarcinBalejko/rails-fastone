@@ -1,0 +1,43 @@
+
+
+ .main-container-new{
+     display: inline-block;
+ }
+
+body {
+    text-align: center;
+    margin-top: 10%;
+}
+
+form {
+    text-align: center;
+}
+
+.field {
+     width: 400px;
+     margin-top: 2px;
+ }
+
+ #back-button {
+     padding-top: 5px;
+     margin-top: 5px;
+     text-decoration: none;
+ }
+
+ .actions{
+     text-decoration: none;
+ }
+
+ .post-card {
+     border: 4px solid black;
+     margin: 4px;
+     max-width: 600px;
+     text-align: center;
+ }
+
+ .post-list {
+     position: relative;
+     left: 400px;
+     text-align: center;
+     
+ }
